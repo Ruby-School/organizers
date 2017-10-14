@@ -26,9 +26,7 @@ be held. Alternatively the area should be small, but yet meaningful, e.g `prince
 
 Once you are an organizer follow these instructions to set up your NodeSchool chapter:
 
-### 1
+##### 1 You should have been added to the team called `chapter-organizers` and should have access to edit the new chapter repo, e.g. https://github.com/Ruby-School/berlin
 
-You should have been added to the team called `chapter-organizers` and should have access to edit the new chapter repo, e.g. https://github.com/Ruby-School/berlin
-
-### 2
-
+##### 2 Each chapter can set up their own gh-pages branch on their org and github pages will automatically route `ruby-school.io/<reponame>` to it
+For example we have [Oakland](https://github.com/ruby-school/oakland) and [Berlin](https://github.com/ruby-school/berlin).
