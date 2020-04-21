@@ -1,5 +1,6 @@
 # organizers
 
+[[Discord Chat](https://discordapp.com/api/guilds/547008165066047518/widget.png?style=banner1)](https://discord.gg/hz4WSj)
 ![Discord Chat](https://discordapp.com/api/guilds/547008165066047518/widget.png?style=banner1)
 
 
