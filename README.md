@@ -1,7 +1,7 @@
 # organizers
 
 [![Discord chat]()](https://discord.gg/ZwmhtB)
-![Discord chat](https://discordapp.com/api/guilds/ZwmhtB/widget.png?style=shield)
+![Discord chat](https://discord.gg/ZwmhtB/widget.png?style=shield)
 
 
 - Learn to run an event and get pro-tips from other organizers in the [organizers wiki](https://github.com/Ruby-School/organizers/wiki)
