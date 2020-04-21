@@ -1,6 +1,6 @@
 # organizers
 
-[![Discord Chat](https://discordapp.com/api/guilds/547008165066047518/widget.png?style=banner1)](https://discord.gg/hz4WSj)
+[![Discord Chat](https://discordapp.com/api/guilds/547008165066047518/widget.png?style=banner2)](https://discord.gg/hz4WSj)
 
 - Learn to run an event and get pro-tips from other organizers in the [organizers wiki](https://github.com/Ruby-School/organizers/wiki)
 - Ask a question or browse discussions in the [organizers discussion board](https://github.com/Ruby-School/organizers/issues)
