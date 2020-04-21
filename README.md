@@ -1,6 +1,7 @@
 # organizers
 
-[![Gitter chat](https://badges.gitter.im/Ruby_School/organizers.png)](https://gitter.im/Ruby_School/organizers)
+[![Discord chat]()](https://discord.gg/ZwmhtB)
+![Discord chat](https://discordapp.com/api/guilds/ZwmhtB/widget.png?style=shield)
 
 
 - Learn to run an event and get pro-tips from other organizers in the [organizers wiki](https://github.com/Ruby-School/organizers/wiki)
