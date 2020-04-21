@@ -2,6 +2,7 @@
 
 [![Discord chat]()](https://discord.gg/ZwmhtB)
 ![Discord chat](https://discord.gg/ZwmhtB)
+![Discord Banner 1](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner1)
 
 
 - Learn to run an event and get pro-tips from other organizers in the [organizers wiki](https://github.com/Ruby-School/organizers/wiki)
